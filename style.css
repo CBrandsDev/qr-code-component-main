@@ -3,18 +3,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    max-width: 1440px;
+    max-width: 2550px;
     
 }
 
 body {
     font-family: 'Roboto Condensed';
+    border: solid red;
     display: flex;
-    margin: 0;
     align-items: center;
     justify-content: center;
-    padding: 100px;
     border-radius: 20px;
+    width: 100vw;
+    height: 100vh;
     background-color: hsl(212, 45%, 89%);
     
 }
